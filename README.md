@@ -26,16 +26,6 @@ Get started in minutes. Our structured onboarding process guides you through set
 
 ---
 
-## 📱 App Preview
-
-| Onboarding Flow | Personalized Plan | Daily Progress |
-| :---: | :---: | :---: |
-| <img src="assets/screenshots/age_screen.png" width="200"> | <img src="assets/screenshots/plan_ready.png" width="200"> | <img src="assets/screenshots/get_started.jpg" width="200"> |
-
-*(Note: Replace the image paths above with the actual paths in your repository)*
-
----
-
 ## 🚀 How It Works
 
 1. **Profile Setup**: Enter your biometrics and choose your goal (Lose weight, Maintain, or Gain weight).
