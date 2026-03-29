@@ -30,7 +30,9 @@ Get started in minutes. Our structured onboarding process guides you through set
 
 1. **Profile Setup**: Enter your biometrics and choose your goal (Lose weight, Maintain, or Gain weight).
 2. **Log a Meal**: Take a photo or type a description of what you're eating.
-3. **AI Analysis**: CALY breaks down the meal into specific ingredients and calculates full nutritional data.
+3. **AI Dual-Engine Analysis**:
+      Visual Recognition: Powered by a custom YOLO (You Only Look Once) model to detect multiple food items and estimate portions from a single image.
+      Natural Language Processing (NLP): A specialized model that parses text descriptions into structured ingredient data, allowing for seamless manual logging.
 4. **Track Progress**: Watch your daily rings fill up as you move closer to your health targets.
 
 ---
