@@ -39,10 +39,14 @@ Get started in minutes. Our structured onboarding process guides you through set
 
 ## 🛠️ Built With
 
-* **Frontend**: Developed with **Flutter** for a smooth, cross-platform mobile experience.
-* **Backend**: Powered by **FastAPI (Python)** for high-performance AI processing and logic.
-* **Database**: Managed by **Supabase** for secure user data and real-time synchronization.
-* **Nutrition Data**: Integrated with the **Edamam API** for world-class nutritional accuracy.
+* **Frontend**: **Flutter** for a premium cross-platform mobile experience.
+* **Backend**: **FastAPI (Python)** for high-performance processing.
+* **AI Stack**: 
+    * **YOLOv8** for state-of-the-art object detection.
+    * **Custom NLP** for intelligent text parsing.
+    * **Hugging Face** for robust model deployment.
+* **Database**: **Supabase** for secure, real-time data management.
+* **Nutrition Data**: **Edamam API** for gold-standard nutritional accuracy.
 
 ---
 
